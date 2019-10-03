@@ -1,0 +1,18 @@
+.starShips{
+    color:black;
+}
+.link {
+    text-decoration:none;
+    color:black;
+    font-size:15px;
+}
+.box {
+    display:inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color:cyan;
+    margin: 20px;
+    height:30vh;
+    width:30vh;
+}
